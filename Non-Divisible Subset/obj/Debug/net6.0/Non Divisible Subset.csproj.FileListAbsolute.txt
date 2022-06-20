@@ -1,0 +1,15 @@
+C:\Users\acatg\source\repos\Non Divisible Subset\Non Divisible Subset\bin\Debug\net6.0\Non Divisible Subset.exe
+C:\Users\acatg\source\repos\Non Divisible Subset\Non Divisible Subset\bin\Debug\net6.0\Non Divisible Subset.deps.json
+C:\Users\acatg\source\repos\Non Divisible Subset\Non Divisible Subset\bin\Debug\net6.0\Non Divisible Subset.runtimeconfig.json
+C:\Users\acatg\source\repos\Non Divisible Subset\Non Divisible Subset\bin\Debug\net6.0\Non Divisible Subset.dll
+C:\Users\acatg\source\repos\Non Divisible Subset\Non Divisible Subset\bin\Debug\net6.0\Non Divisible Subset.pdb
+C:\Users\acatg\source\repos\Non Divisible Subset\Non Divisible Subset\obj\Debug\net6.0\Non Divisible Subset.csproj.AssemblyReference.cache
+C:\Users\acatg\source\repos\Non Divisible Subset\Non Divisible Subset\obj\Debug\net6.0\Non Divisible Subset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acatg\source\repos\Non Divisible Subset\Non Divisible Subset\obj\Debug\net6.0\Non Divisible Subset.AssemblyInfoInputs.cache
+C:\Users\acatg\source\repos\Non Divisible Subset\Non Divisible Subset\obj\Debug\net6.0\Non Divisible Subset.AssemblyInfo.cs
+C:\Users\acatg\source\repos\Non Divisible Subset\Non Divisible Subset\obj\Debug\net6.0\Non Divisible Subset.csproj.CoreCompileInputs.cache
+C:\Users\acatg\source\repos\Non Divisible Subset\Non Divisible Subset\obj\Debug\net6.0\Non Divisible Subset.dll
+C:\Users\acatg\source\repos\Non Divisible Subset\Non Divisible Subset\obj\Debug\net6.0\refint\Non Divisible Subset.dll
+C:\Users\acatg\source\repos\Non Divisible Subset\Non Divisible Subset\obj\Debug\net6.0\Non Divisible Subset.pdb
+C:\Users\acatg\source\repos\Non Divisible Subset\Non Divisible Subset\obj\Debug\net6.0\Non Divisible Subset.genruntimeconfig.cache
+C:\Users\acatg\source\repos\Non Divisible Subset\Non Divisible Subset\obj\Debug\net6.0\ref\Non Divisible Subset.dll
